@@ -1,0 +1,9 @@
+# Test requirements
+pytest-django
+model-bakery
+faker
+# Project requirements
+django
+pillow
+ipython
+django-colorfield
